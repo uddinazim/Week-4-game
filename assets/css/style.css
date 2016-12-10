@@ -1,0 +1,14 @@
+.crystalImage {
+  width: 150px;
+  height: 150px;
+}
+
+
+
+#numberToGuess, #Guess, #message, #resultsDiv, #scoreDiv, #losses, #win {
+
+
+
+font-size: 20px;
+
+}
